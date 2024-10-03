@@ -1,0 +1,125 @@
+import 'package:flutter/material.dart';
+
+class AppDimensions {
+  static late double screenWidth;
+  static late double screenHeight;
+
+  static double paddingSmall = 8.0;
+  static double paddingMedium = 16.0;
+  static double paddingLarge = 32.0;
+
+  static double fontSmall = 12.0;
+  static double fontMedium = 16.0;
+  static double fontLarge = 24.0;
+
+  static double marginSmall = 8.0;
+  static double marginMedium = 16.0;
+  static double marginLarge = 32.0;
+
+  // Call this method when app starts to set screen size dimensions
+  static void init(BuildContext context) {
+    screenWidth = MediaQuery.of(context).size.width;
+    screenHeight = MediaQuery.of(context).size.height;
+  }
+
+  static const double space1 = 1.0;
+  static const double space2 = 2.0;
+  static const double space3 = 3.0;
+  static const double space4 = 4.0;
+  static const double space5 = 5.0;
+  static const double space6 = 6.0;
+  static const double space7 = 7.0;
+  static const double space8 = 8.0;
+  static const double space9 = 9.0;
+  static const double space10 = 10.0;
+  static const double space11 = 11.0;
+  static const double space12 = 12.0;
+  static const double space13 = 13.0;
+  static const double space14 = 14.0;
+  static const double space15 = 15.0;
+  static const double space16 = 16.0;
+  static const double space17 = 17.0;
+  static const double space18 = 18.0;
+  static const double space19 = 19.0;
+  static const double space20 = 20.0;
+  static const double space21 = 21.0;
+  static const double space22 = 22.0;
+  static const double space23 = 23.0;
+  static const double space24 = 24.0;
+  static const double space25 = 25.0;
+  static const double space26 = 26.0;
+  static const double space27 = 27.0;
+  static const double space28 = 28.0;
+  static const double space29 = 29.0;
+  static const double space30 = 30.0;
+  static const double space31 = 31.0;
+  static const double space32 = 32.0;
+  static const double space33 = 33.0;
+  static const double space34 = 34.0;
+  static const double space35 = 35.0;
+  static const double space36 = 36.0;
+  static const double space37 = 37.0;
+  static const double space38 = 38.0;
+  static const double space39 = 39.0;
+  static const double space40 = 40.0;
+  static const double space41 = 41.0;
+  static const double space42 = 42.0;
+  static const double space43 = 43.0;
+  static const double space44 = 44.0;
+  static const double space45 = 45.0;
+  static const double space46 = 46.0;
+  static const double space47 = 47.0;
+  static const double space48 = 48.0;
+  static const double space49 = 49.0;
+  static const double space50 = 50.0;
+  static const double space51 = 51.0;
+  static const double space52 = 52.0;
+  static const double space53 = 53.0;
+  static const double space54 = 54.0;
+  static const double space55 = 55.0;
+  static const double space56 = 56.0;
+  static const double space57 = 57.0;
+  static const double space58 = 58.0;
+  static const double space59 = 59.0;
+  static const double space60 = 60.0;
+  static const double space61 = 61.0;
+  static const double space62 = 62.0;
+  static const double space63 = 63.0;
+  static const double space64 = 64.0;
+  static const double space65 = 65.0;
+  static const double space66 = 66.0;
+  static const double space67 = 67.0;
+  static const double space68 = 68.0;
+  static const double space69 = 69.0;
+  static const double space70 = 70.0;
+  static const double space71 = 71.0;
+  static const double space72 = 72.0;
+  static const double space73 = 73.0;
+  static const double space74 = 74.0;
+  static const double space75 = 75.0;
+  static const double space76 = 76.0;
+  static const double space77 = 77.0;
+  static const double space78 = 78.0;
+  static const double space79 = 79.0;
+  static const double space80 = 80.0;
+  static const double space81 = 81.0;
+  static const double space82 = 82.0;
+  static const double space83 = 83.0;
+  static const double space84 = 84.0;
+  static const double space85 = 85.0;
+  static const double space86 = 86.0;
+  static const double space87 = 87.0;
+  static const double space88 = 88.0;
+  static const double space89 = 89.0;
+  static const double space90 = 90.0;
+  static const double space91 = 91.0;
+  static const double space92 = 92.0;
+  static const double space93 = 93.0;
+  static const double space94 = 94.0;
+  static const double space95 = 95.0;
+  static const double space96 = 96.0;
+  static const double space97 = 97.0;
+  static const double space98 = 98.0;
+  static const double space99 = 99.0;
+  static const double space100 = 100.0;
+}
